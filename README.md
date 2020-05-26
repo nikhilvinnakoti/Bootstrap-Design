@@ -1,2 +1,2 @@
 # Bootstrap-Design
-https://quizzical-hamilton-2aa080.netlify.app -Check out the Website
+https://pensive-noether-a5ada7.netlify.app/ -Check out the Website with bootstrap components like carousel,cards and also parallax effect.
